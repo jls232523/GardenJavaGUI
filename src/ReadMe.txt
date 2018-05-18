@@ -1,0 +1,1 @@
+I added color to my buttons to distinguish them from each other. I also implemented a reset button that resets the cmd_in field for easier usability. There is a list of commands on the left helping the user out, along with a drop down menu that when clicked on inputs the clicked field into the cmd_in again making it easier for the user to use.

@@ -1,28 +1,50 @@
-#How to use GUI
-Types of Commands:
-Plant
+# How To Use GUI
+# Types of Commands:
+# Plant
   EX: PLANT (0,0) rose
-Grow
+# Grow
   EX: GROW 1
           Will grow every plant by 1
       GROW 1 (2,3)
           Will grow only plant at specific location
       GROW 1 rose
           Will grow only plants of specific type
-Cut
+# Cut
   Removes all Trees and Cacti
-Harvest
+# Harvest
   Removes all Vegetables
-Pick
+# Pick
   Removes all Flowers
   
-Type of Plants:
-FLOWERS      TREES      VEGETABLES   Cacti
--------      -----      ----------  -------
-Iris         Oak        Garlic      Barrel
-Lily         Willow     Zucchini    Saguaro
-Rose         Banana     Tomato      Cholla 
-Daisy        Coconut    Yam         Devil 
-Tulip        Pine       Lettuce     Pear
+# FLOWERS
+Iris        
+Lily         
+Rose
+Daisy
+Tulip
 Sunflower
+
+# Trees
+Oak   
+Willow   
+Banana     
+Coconut    
+Pine  
+
+# Vegetables
+Garlic
+Zucchini
+Tomato
+Yam
+Lettuce
+
+# Cacti
+Barrel
+Saguaro
+Cholla 
+Devil 
+Pear
+
+
+
 
